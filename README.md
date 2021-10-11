@@ -13,6 +13,6 @@ The server.js file serves the static files in the public folder and handles all 
 
 I completed this project with 2 goals in mind -- 
 
-1. I wanted to build a full-stack webapp from the ground up -- without using any libraries other than Express, React, and some standard middleware. I wanted to develop a strong understanding of what is happening at each part of a webapp. Every single word of the code in this project aside from the imports was written by me.
+1. I wanted to build a full-stack webapp from the ground up -- without using any libraries other than Express, React, and some standard middleware. I wanted to develop a strong understanding of what is happening at each part of a webapp. Every single word of the code in this project, aside from the code within the imported modules, was written by me.
 
 2. I wanted to learn more about React and how it functions. To do this I decided to use inline React, inserting React files directly into HTML instead of starting the project with the `npx create-react-app my-app` command. This allowed me to develop an understanding of how React can be added to an existing back-end and learn more about how React functions at a fundamental level.
