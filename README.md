@@ -5,7 +5,7 @@
 
 **Author:** *Bradley J.M.*
 
-This project was completed independently as a challenge to build a full-stack webapp from a scratch. As of 10/11/2021, it is not quite finished yet, the post button does not work yet and the code has not been refactored into routes.
+This project was completed independently as a challenge to build a full-stack webapp from a scratch. As of 10/11/2021, it is not quite finished yet, the post button does not display a component, and the code has not been refactored into routes.
 
 In this project I used Node and Express to create a back-end server. I used and React, HTML, and inline CSS to create the front-end.
 
